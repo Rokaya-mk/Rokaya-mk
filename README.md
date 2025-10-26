@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm R'qia MBAIRIK</h1>
-<h3 align="center">A passionate Full Stack developer Laravel/Vuejs</h3>
+<h3 align="center">A passionate Full Stack developer Laravel | Symfony | Vue js | React |API Integrations </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokaya-mk&label=Profile%20views&color=0e75b6&style=flat" alt="rokaya-mk" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.rqiambairik.com/](https://www.rqiambairik.com/)
 
-- 💬 Ask me about **PHP, Laravel, vuejs,wordpress,mysql**
+- 💬 Ask me about **PHP, Laravel,Symfony, vuejs, react, wordpress, woocomerce ,mysql**
 
 - 📫 How to reach me **mbairikrqia@gmail.com**
 
 - 📄 Know about my experiences [https://www.doyoubuzz.com/rqia-mbairik](https://www.doyoubuzz.com/rqia-mbairik)
   
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
