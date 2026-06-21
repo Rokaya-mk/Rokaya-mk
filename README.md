@@ -11,10 +11,10 @@
 ### 👩‍💻 About Me
 
 - 🔭 Building production apps with **Laravel 10, PHP 8.2, Vue.js, Pinia, MySQL & PostgreSQL**
-- 📲 Shipped a **Meta WhatsApp API integration** for an enterprise business module — real-time messaging at production scale
+- 📲 Shipped a **Meta WhatsApp API integration** for an enterprise business module  real-time messaging at production scale
 - 🎓 Completing a Master's in **Big Data & Cloud Computing**
 - 🌱 Currently deepening **Symfony 7 + API Platform, Docker, and SOLID design**
-- 🌍 Based in Casablanca, Morocco — open to remote roles (France & international)
+- 🌍 Based in Casablanca, Morocco ,open to remote roles (France & international)
 - 💬 Ask me about **Laravel, Vue.js, REST/GraphQL APIs, MySQL, PostgreSQL, Tailwind CSS**
 
 ---
