@@ -14,7 +14,7 @@
 - 📲 Shipped a **Meta WhatsApp API integration** for an enterprise business module  real-time messaging at production scale
 - 🎓 Completing a Master's in **Big Data & Cloud Computing**
 - 🌱 Currently deepening **Symfony 7 + API Platform, Docker, and SOLID design**
-- 🌍 Based in Casablanca, Morocco ,open to remote roles (France & international)
+- 🌍 Based in Casablanca, Morocco ,open to For new Opportunities
 - 💬 Ask me about **Laravel, Vue.js, REST/GraphQL APIs, MySQL, PostgreSQL, Tailwind CSS**
 
 ---
